@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3811acf2-8383-4302-97cd-10374a1a11da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LimpaArquivosCamera.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="3811acf2-8383-4302-97cd-10374a1a11da" name="Changes" comment="Programa funcionando corretamente, falta refatoração para maior organização do código." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +70,35 @@
       <option name="presentableId" value="Default" />
       <updated>1728138259260</updated>
     </task>
+    <task id="LOCAL-00001" summary="Programa funcionando corretamente, falta refatoração para maior organização do código.">
+      <option name="closed" value="true" />
+      <created>1728396873319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728396873319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Programa funcionando corretamente, falta refatoração para maior organização do código.">
+      <option name="closed" value="true" />
+      <created>1728396928236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728396928236</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Programa funcionando corretamente, falta refatoração para maior organização do código.">
+      <option name="closed" value="true" />
+      <created>1728397011465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728397011465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programa funcionando corretamente, falta refatoração para maior organização do código." />
+    <option name="LAST_COMMIT_MESSAGE" value="Programa funcionando corretamente, falta refatoração para maior organização do código." />
   </component>
 </project>
